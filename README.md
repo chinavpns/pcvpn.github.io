@@ -468,6 +468,8 @@ VPN服务提供商会定期更新客户端软件，以应对最新的网络封�
 
 * <a href=https://github.com/chinavpns/chinavpns.github.io>中国VPN推荐</a>和<a href=https://github.com/chinavpns/chinavpns.github.io>最好用的VPN排行</a>：我们基于VPN中国大陆实测之后，挑选了几款最好用的国内VPN，它们可帮助中国网民快速访问国外Google、Facebook、Youtube、Netflix、ChatGPT、TikTok、Telegram等网站！
 
+* <a href=https://github.com/chinavpns/vpnintochina>翻墙回国</a>和<a href=https://github.com/chinavpns/vpnintochina>回国VPN推荐</a>：海外华人如何翻墙回国内获取大陆IP地址观看2024年欧洲杯中文解说直播，并访问国内受地域限制的腾讯视频、爱奇艺、优酷视频、QQ音乐、网易云音乐、微信朋友圈、微博等平台。
+
 * <a href=https://github.com/chinavpns/androidvpn.github.io>安卓翻墙</a>和<a href=https://github.com/chinavpns/androidvpn.github.io>安卓VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
 
 * <a href=https://github.com/chinavpns/iosvpn.github.io>苹果翻墙</a>和<a href=https://github.com/chinavpns/iosvpn.github.io>苹果VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
