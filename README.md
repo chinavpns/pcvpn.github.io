@@ -4,7 +4,7 @@
 
 ![电脑翻墙教程：电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/PC-VPN.jpg)
 
-**<p align="center">更多关于<a href="https://wallvpn.com/pc-vpn/>电脑翻墙</a>的信息，请查看：<a href="https://wallvpn.com/pc-vpn/>https://wallvpn.com/pc-vpn/</a></p>**
+**<p align="center">更多关于<a href=https://wallvpn.com/pc-vpn/>电脑翻墙</a>的信息，请查看：<a href=https://wallvpn.com/pc-vpn/>https://wallvpn.com/pc-vpn/</a></p>**
 
 在数字时代，访问全球信息的需求日益增加，而网络审查和地理限制让很多用户难以畅游互联网的广阔世界。特别是在中国，用户想要访问国外的内容，观看国际流媒体视频或使用被屏蔽的社交媒体平台，都需要借助电脑翻墙工具。
 
