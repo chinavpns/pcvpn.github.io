@@ -1,6 +1,6 @@
-# 电脑翻墙教程：2024年最好用的电脑VPN推荐
+# <p align="center">电脑翻墙教程：2024年最好用的电脑VPN推荐</p>
 
-***最近更新于：2024年7月18日***
+<p align="center">最近更新于：2024年7月18日</p>
 
 ![电脑翻墙教程：电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/PC-VPN.jpg)
 
