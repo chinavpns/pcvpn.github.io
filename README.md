@@ -248,14 +248,16 @@ VPN的连接速度和稳定性是用户体验的关键因素之一。使用VPN�
 * ExpressVPN MacOS APP下载地址：https://www.expressvpn.com/vpn-download/vpn-mac
 * ExpressVPN Linux APP下载地址：https://www.expressvpn.com/vpn-download/vpn-linux
 
-* PureVPN Windows APP下载地址：
-https://www.purevpn.com/download/windows-vpn
+
+* PureVPN Windows APP下载地址：https://www.purevpn.com/download/windows-vpn
 * PureVPN MacOS APP下载地址：https://www.purevpn.com/download/mac-vpn
 * PureVPN Linux APP下载地址：https://www.purevpn.com/download/linux-vpn
+
 
 * NordVPN Windows APP下载地址：https://nordvpn.com/zh/download/windows/
 * NordVPN MacOS APP下载地址：https://nordvpn.com/zh/download/mac/
 * NordVPN Linux APP下载地址：https://nordvpn.com/zh/download/linux/
+
 
 * Surfshark Windows APP下载地址：https://surfshark.com/zh/download/windows
 * Surfshark MacOS APP下载地址：https://surfshark.com/zh/download/macos
