@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2024年9月11日</p>
 
-![电脑翻墙教程：电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/PC-VPN.jpg)
+![电脑翻墙教程：电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
 **<p align="center">更多关于<a href=https://wallvpn.com/pc-vpn/>电脑翻墙</a>的信息，请查看：<a href=https://wallvpn.com/pc-vpn/>https://wallvpn.com/pc-vpn/</a></p>**
 
