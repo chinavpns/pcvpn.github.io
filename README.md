@@ -92,7 +92,7 @@ ExpressVPN还提供24/7在线客服支持，用户在使用过程中无论遇到
 
 ****
 
-### 电脑VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌电脑VPN，每月3.97美金，支持支付宝付款</a>
+### 电脑VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，每月3.97美金，支持支付宝付款</a>
 
 ![StrongVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/refs/heads/main/image/StrongVPN-PC-VPN.jpg)
 
