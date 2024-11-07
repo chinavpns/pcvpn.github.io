@@ -31,7 +31,7 @@
 <blockquote>
 
 <h4 id="1-电脑vpn推荐一expressvpn---翻墙最稳定速度最快安全性高30天免费">1. <a href="#电脑vpn推荐一expressvpn---翻墙最稳定速度最快安全性高30天免费">电脑VPN推荐（一）：ExpressVPN - 翻墙最稳定，速度最快，安全性高，30天免费。</a></h4>
-<h4 id="2-电脑vpn推荐二strongvpn---老牌vpn每月397美金支持支付宝付款">2. <a href="#电脑vpn推荐二strongvpn---老牌vpn每月397美金支持支付宝付款">电脑VPN推荐（二）：StrongVPN - 老牌VPN，每月397美金，支持支付宝付款。</a></h4>
+<h4 id="2-电脑vpn推荐二strongvpn---老牌vpn每月397美金支持支付宝付款">2. <a href="#电脑vpn推荐二strongvpn---老牌vpn每月397美金支持支付宝付款">电脑VPN推荐（二）：StrongVPN - 老牌VPN，每月3.97美金，支持支付宝付款。</a></h4>
 <h4 id="3-电脑vpn推荐三purevpn---安全好用价格便宜211美金月">3. <a href="#电脑vpn推荐三purevpn---安全好用价格便宜211美金月">电脑VPN推荐（三）：PureVPN - 安全好用，价格便宜，2.11美金/月。</a></h4>
 
 </blockquote>
