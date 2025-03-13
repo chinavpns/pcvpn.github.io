@@ -1,6 +1,6 @@
 # <p align="center">电脑翻墙教程：2025年最好用的电脑VPN推荐</p>
 
-<p align="center">最近更新于：2025年2月20日</p>
+<p align="center">最近更新于：2025年3月13日</p>
 
 ![电脑翻墙教程：最好用的电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
