@@ -284,17 +284,17 @@ VPN的连接速度和稳定性直接决定用户体验。用户希望VPN能够�
 * PureVPN MacOS APP下载地址：https://www.purevpn.com/download/mac-vpn
 * PureVPN Linux APP下载地址：https://www.purevpn.com/download/linux-vpn
 
-**NordVPN电脑版APP下载**：
-
-* NordVPN Windows APP下载地址：https://nordvpn.com/zh/download/windows/
-* NordVPN MacOS APP下载地址：https://nordvpn.com/zh/download/mac/
-* NordVPN Linux APP下载地址：https://nordvpn.com/zh/download/linux/
-
 **Surfshark电脑版APP下载**：
 
 * Surfshark Windows APP下载地址：https://surfshark.com/zh/download/windows
 * Surfshark MacOS APP下载地址：https://surfshark.com/zh/download/macos
 * Surfshark Linux APP下载地址：https://surfshark.com/zh/download/linux
+
+**NordVPN电脑版APP下载**：
+
+* NordVPN Windows APP下载地址：https://nordvpn.com/zh/download/windows/
+* NordVPN MacOS APP下载地址：https://nordvpn.com/zh/download/mac/
+* NordVPN Linux APP下载地址：https://nordvpn.com/zh/download/linux/
 
 当选择好电脑VPN后，根据你的操作系统点击上方提供的下载地址，然后点击“下载”按钮，等待文件下载完成。下载结束后，找到已下载的文件，双击运行并按照屏幕提示完成安装。如果在此过程中遇到任何问题，大多数VPN服务提供商都提供详细的安装指南，并提供24/7的客户支持，随时为你解答疑问。
 
