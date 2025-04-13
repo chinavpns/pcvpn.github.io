@@ -207,7 +207,7 @@ Surfshark的一大亮点是支持无限数量的设备同时连接，非常适�
 
 ![NordVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/NordVPN-PC-VPN.jpg)
 
-NordVPN成立于2012年，总部位于隐私友好的巴拿马。该地区没有数据保留法律，也不属于五眼、九眼或十四眼联盟的情报合作范围，确保了用户数据的高度隐私。NordVPN以强大的安全功能和遍布全球的庞大服务器网络著称，吸引了全球超过1400万忠实用户，并在业内拥有良好的口碑。NordVPN曾在中国大陆表现出色，但遗憾的是，近两年其翻墙能力大幅下降，用户必须进行手动配置后才能成功翻墙，且其连接速度也远不及ExpressVPN。因此，NordVPN在我们电脑VPN排行榜中仅位居第五名。
+NordVPN成立于2012年，总部位于隐私友好的巴拿马。该地区没有数据保留法律，也不属于五眼、九眼或十四眼联盟的情报合作范围，确保了用户数据的高度隐私。NordVPN以强大的安全功能和遍布全球的庞大服务器网络著称，吸引了全球超过1400万忠实用户，并在业内拥有良好的口碑。NordVPN曾经也算得上是最好用的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，但遗憾的是，近两年其翻墙能力大幅下降，用户必须进行手动配置后才能成功翻墙，且其连接速度也远不及ExpressVPN。因此，NordVPN在我们电脑VPN排行榜中仅位居第五名。
 
 在安全性方面，NordVPN提供了多重防护措施。采用AES-256加密技术，这种军用级别的加密方式能够有效保护用户的数据安全。NordVPN支持OpenVPN和IKEv2/IPSec协议，并开发了基于WireGuard的NordLynx协议，为用户提供了兼顾速度和安全性的灵活选择。值得信赖的是，NordVPN已通过普华永道（PwC）瑞士的独立审计，严格执行无日志政策，不记录用户的在线活动，切实保障用户隐私。
 
