@@ -2,13 +2,6 @@
 
 <p align="center">最近更新于：2025年5月18日</p>
 
-| VPN品牌 | 翻墙能力 | 安全性 | 服务器数量 | 价格 | 特色 | 综合评分 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [ExpressVPN](https://bit.ly/eps-vpn) | 非常稳定 | 非常安全 | 105个国家3000台 | 每月4.99美金 | 速度最快且30天免费 | 9.9/10 |
-| [StrongVPN](https://bit.ly/stg-vpn) | 比较稳定 | 比较安全 | 35个国家950台 | 每月3.97美金 | 支持支付宝付款 | 9.5/10 |
-| [PureVPN](https://bit.ly/pe-vpn) | 马马虎虎 | 非常安全 | 70个国家6500台 | 每月2.11美金 | 安全且价格便宜 | 9.0/10 |
-
-
 ![电脑翻墙教程：最好用的电脑VPN和PC端VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%94%B5%E8%84%91VPN%E6%8E%A8%E8%8D%90.png)
 
 现如今，电脑和手机已经是我们工作、学习和生活中不可或缺的工具。但由于GFW的封锁，很多中国用户无法使用像Facebook、Gmail、Skype、Telegram这样的通讯工具和海外客户沟通，也无法通过Google、YouTube查找学习资料，更别说在Netflix、Hulu上追剧看电影了。如果想自由访问这些海外网站和APP，翻墙是绕不过去的一步。
