@@ -98,7 +98,7 @@
 
 在选择电脑VPN时，市场上有众多选项，让人难以抉择。为了帮助你找到最适合的VPN服务，我们精心挑选了几款在2025年表现优异的电脑VPN。这些VPN不仅在安全性、速度和稳定性方面表现出色，还提供了丰富的功能和优质的用户体验。无论你是需要翻墙访问全球内容，还是保护个人隐私，这些推荐的VPN都能满足你的需求。接下来，我们将详细介绍这些顶级VPN的特点和优势，帮助你做出明智的选择。
 
-### 电脑VPN推荐（一）：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN - 翻墙最稳定，速度最快，安全性高，30天免费</a>
+### 电脑VPN推荐（一）：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN - 翻墙最稳定，速度最快，安全性高，3.49美金/月</a>
 
 ![ExpressVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/ExpressVPN-PC-VPN.jpg)
 
